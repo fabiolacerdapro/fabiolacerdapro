@@ -6,11 +6,11 @@
   
 - 🔭 I'm currently working with PHP
 - 🌱 I am currently learning JS & Python
-- 👯 I'm looking to collaborate on projects focusing on security, anonymity and freedom.
+<!-- - 👯 I'm looking to collaborate on projects focusing on security, anonymity and freedom. -->
 - 🤔 I'm looking for help with AI
 - 💬 Ask me about programming and philosophy
 - 📫 How to reach me: https://fabiolacerda.com
-- ⚡ Fun fact: Stoic
+- ⚡ Fun fact: Main Sova
 
 
 <!--
