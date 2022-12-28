@@ -10,7 +10,7 @@
 - 🤔 I'm looking for help with AI
 - 💬 Ask me about programming and philosophy
 - 📫 How to reach me: https://fabiolacerda.com
-- ⚡ Fun fact: Main Sova
+- ⚡ Fun fact: Main KAY/O
 
 
 <!--
